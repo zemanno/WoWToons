@@ -62,4 +62,4 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 
-scripts/* linguist-vendored
+WoWToons_WebForms/scripts/* linguist-vendored
